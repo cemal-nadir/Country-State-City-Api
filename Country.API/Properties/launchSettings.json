@@ -1,0 +1,19 @@
+﻿{
+    "profiles": {
+        "Country.Api": {
+            "commandName": "Project",
+            "dotnetRunMessages": false,
+            "launchBrowser": false,
+            "applicationUrl": "http://localhost:1453",
+            "environmentVariables": {
+                "DATABASE_HOST": "localhost",
+                "DATABASE_NAME": "CountryDB",
+                "DATABASE_USER_NAME": "postgres",
+                "DATABASE_PASSWORD": "cMYZ9ATA7P__",
+                "DATABASE_PORT": "1000"
+            }
+
+        }
+
+    }
+}
